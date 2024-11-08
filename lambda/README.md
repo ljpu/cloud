@@ -6,4 +6,6 @@ Reference:
 You first Java AWS Lambda function in less than 5 minutes
 https://www.youtube.com/watch?v=LFZihAFN0wk
 
+AwsLambda has 2 methods: alterPayload(String payload) and simplePrint()
+
 Deploy common2.jar to AWS Lambda functions
